@@ -1,0 +1,6 @@
+{
+  "name": "Hoodie",
+  "description": "An interactive, physics-based arrow shooting game under the Hoodie brand, designed for precision timing and focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
